@@ -11,7 +11,8 @@ namespace CText
         static void Main(string[] args)
         {
             Console.WriteLine("dwad");
-            Console.WriteLine("dwd");
+            Console.WriteLine("dwdawdawd");
+            Console.WriteLine("dwdawdawd");
         }
     }
 }
